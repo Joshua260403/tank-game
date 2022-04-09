@@ -77,3 +77,9 @@ Thumbs.db
 # build folder
 bin/*
 !bin/.gitkeep
+src/.cproject
+.cproject
+.project
+.settings/language.settings.xml
+src/.settings/language.settings.xml
+src/.settings/org.eclipse.cdt.managedbuilder.core.prefs
